@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Standard Readme](#standard-readme)
+- [Arrow Scheduling API]
 	- [Table of Contents](#table-of-contents)
 	- [Background](#background)
     - [Technical Stack](#technical-stack)

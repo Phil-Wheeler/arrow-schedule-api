@@ -11,7 +11,6 @@
 	- [Install](#install)
 	- [Usage](#usage)
 	- [Contributing](#contributing)
-		- [Contributors](#contributors)
 	- [License](#license)
 
 ## Background
@@ -53,12 +52,5 @@ Feel free to contribute improvements! [Open an issue](https://github.com/Phil-Wh
 
 Arrow Scheduling API follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
-### Contributors
-
-This project exists thanks to all the people who contribute. 
-<a href="https://github.com/Phil-Wheeler/arrow-schedule-api/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
-
-
-## License
 
 [COOPERATIVE NON-VIOLENT PUBLIC LICENSE](https://github.com/Phil-Wheeler/arrow-schedule-api/blob/main/licence.md) © Phil Wheeler
